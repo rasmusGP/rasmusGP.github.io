@@ -1,4 +1,15 @@
 {
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "AT7Y49RPC7.dk.shortcut.MiniMazed"]
+           }
+       ]
+   },
+   "webcredentials": {
+      "apps": [ "AT7Y49RPC7.dk.shortcut.MiniMazed" ]
+   },
+  
     "appclips": {
         "apps": ["AT7Y49RPC7.dk.shortcut.MiniMazed.Clip"]
     }
